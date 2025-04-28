@@ -10,7 +10,7 @@ body{
         displey: flex;
         align-items:center;
         
-        background-image:linear-gradient(rgb(1, 37, 125,0.6),rgb(1, 37, 125,0.6)),url(content://com.teejay.trebedit.fileprovider/external/Download/image_search_1745301084916.jpg);
+        background-image:linear-gradient(rgb(1, 37, 125,0.6),rgb(1, 37, 125,0.6)),url(image_search_1745301084916.jpg);
         background-size:cover;
         background-repeat:no-repeat;
        background-position:center ;
