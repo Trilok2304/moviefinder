@@ -38,9 +38,6 @@ p{
 p t{
     color:#00FFFF;
 } 
-p m{
-    background-color: black;
-} 
 .search{
   display: flex;
   align-items: center;
